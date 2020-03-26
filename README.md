@@ -2,6 +2,8 @@
 
 # React-Native-Wechat
 
+## 这个fork项目用的是没有微信支付的微信SDK,为啥问APPLE去
+
 [React Native] bridging library that integrates WeChat SDKs:
 
 - [x] iOS SDK 1.7.2
